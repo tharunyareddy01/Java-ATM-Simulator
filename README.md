@@ -29,6 +29,8 @@ javac ATM.java
 java ATM
 ```
 ##output screenshot
+
+
 ![Screenshot 2026-05-27 121327](https://github.com/user-attachments/assets/3d121f3e-c085-452d-886e-7c657d8b3af4)
 ![Screenshot 2026-05-27 121343](https://github.com/user-attachments/assets/51e3c2f5-a7ba-4f8c-94cb-de34e33eb3c5)
 
