@@ -27,7 +27,8 @@ A simple ATM Management System project developed using Java.
 
 javac ATM.java
 java ATM
+```
 ##output screenshot
-<img width="743" height="738" alt="Screenshot 2026-05-27 121343" src="https://github.com/user-attachments/assets/a91e15af-6594-458b-aba0-133a8aa37ab4" />
-<img width="586" height="892" alt="Screenshot 2026-05-27 121327" src="https://github.com/user-attachments/assets/be0645ea-09ed-4c9b-82fe-8cdf6d9b9d8c" />
+![Screenshot 2026-05-27 121327](https://github.com/user-attachments/assets/3d121f3e-c085-452d-886e-7c657d8b3af4)
+![Screenshot 2026-05-27 121343](https://github.com/user-attachments/assets/51e3c2f5-a7ba-4f8c-94cb-de34e33eb3c5)
 
